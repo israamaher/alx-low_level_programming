@@ -7,10 +7,8 @@
  */
 int main(void)
 {
-/*string initialisation*/
-char str[] = "\"Programming is like building a multilingual puzzle";
 
-/*print*/
-puts(str);	
+puts "\"Programming is like building a multilingual puzzle";
+
 return (0);
 }
