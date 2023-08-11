@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	//string initialisation
+	/*string initialisation*/
 	char str[ ] = "\"Programming is like building a multilingual puzzle";
 
 	puts(str);	
