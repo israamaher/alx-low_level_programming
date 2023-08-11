@@ -10,7 +10,7 @@ int main(void)
 /*string initialisation*/
 char str[] = "\"Programming is like building a multilingual puzzle";
 
-/*print*\
+/*print*/
 puts(str);	
 return (0);
 }
