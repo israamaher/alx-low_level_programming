@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 /**
  * main - putchar
  * this program is compiled on.
@@ -6,7 +6,11 @@
  */
 int main(void)
 {
-	printf("_putchar");
-	putchar('\n');
+	int i;
+	char alph[} = "_putchar";
+
+	for (i = 0; i < 8 ; i++)
+		_putchar(alph[i]);
+	_putchar('\n');
 	return (0);
 }
