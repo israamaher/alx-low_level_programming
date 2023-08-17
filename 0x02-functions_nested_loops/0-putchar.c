@@ -7,7 +7,7 @@
 int main(void)
 {
 	int i;
-	char alph[} = "_putchar";
+	char alph[] = "_putchar";
 
 	for (i = 0; i < 8 ; i++)
 		_putchar(alph[i]);
