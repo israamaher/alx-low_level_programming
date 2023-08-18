@@ -4,7 +4,7 @@
 #include <stdio.h>
 /**
  * positive_or_negative - Positive anything is better than negative nothing
- * this program is compiled on.
+ * @i: is an intger function test it.
  * Return: 0 if success.
  */
 void positive_or_negative(int i)
