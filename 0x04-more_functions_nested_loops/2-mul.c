@@ -3,15 +3,16 @@
 #include <stdio.h>
 /**
  * _mul - check if character is lowercase.
- *@a: is integer to  multiple 
- @b: is integer to  multiple
- * Return: 0 if succes
+ * @a: is integer
+ *@b:is integer  
+ * Return: 0 otherwise
  **/
 int mul(int a, int b)
 {
-	int mul;
+	int  mul;
 
 	mul = a * b;
-	printf("%i",mul);
-	return (0);
+
+	return (mul);
+	
 }
