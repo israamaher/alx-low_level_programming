@@ -2,7 +2,7 @@
 #include <ctype.h>
 #include <stdio.h>
 /**
- * _mul - multiple to integer.
+ * mul - multiple to integer.
  * @a: is integer
  * @b: is integer
  * Return:the result of the operation
