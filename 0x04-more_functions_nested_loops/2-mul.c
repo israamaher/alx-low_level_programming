@@ -2,10 +2,10 @@
 #include <ctype.h>
 #include <stdio.h>
 /**
- * _mul - check if character is lowercase.
+ * _mul - multiple to integer.
  * @a: is integer
- *@b:is integer  
- * Return: 0 otherwise
+ * @b: is integer
+ * Return:the result of the operation
  **/
 int mul(int a, int b)
 {
@@ -14,5 +14,4 @@ int mul(int a, int b)
 	mul = a * b;
 
 	return (mul);
-	
 }
